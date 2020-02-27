@@ -1,0 +1,26 @@
+[
+  {
+    "case": "create_bug",
+    "desc": "create_bug",
+    "bug_title": "测试缺陷_拒绝5",
+    "expect": "保存成功"
+  },
+  {
+    "case": "create_bug",
+    "desc": "create_bug",
+    "bug_title": "测试缺陷_延期5",
+    "expect": "保存成功"
+  },
+  {
+    "case": "create_bug",
+    "desc": "create_bug",
+    "bug_title": "测试缺陷_通过5",
+    "expect": "保存成功"
+  },
+  {
+    "case": "create_bug",
+    "desc": "create_bug",
+    "bug_title": "测试缺陷_激活5",
+    "expect": "保存成功"
+  }
+]

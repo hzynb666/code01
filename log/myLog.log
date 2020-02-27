@@ -1,0 +1,4 @@
+2020-02-25 17:12:27,753 INFO [test02_tester_create_bug.py(test01_create_bug:72)] - 添加用例的标题是: 测试缺陷_拒绝5
+2020-02-25 17:12:36,997 INFO [test02_tester_create_bug.py(test01_create_bug:72)] - 添加用例的标题是: 测试缺陷_延期5
+2020-02-25 17:12:45,415 INFO [test02_tester_create_bug.py(test01_create_bug:72)] - 添加用例的标题是: 测试缺陷_通过5
+2020-02-25 17:12:54,072 INFO [test02_tester_create_bug.py(test01_create_bug:72)] - 添加用例的标题是: 测试缺陷_激活5
